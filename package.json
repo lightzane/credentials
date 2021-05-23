@@ -1,0 +1,14 @@
+{
+    "name": "test-prompt",
+    "version": "1.0.0",
+    "description": "",
+    "main": "token.js",
+    "scripts": {
+        "start": "node token"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "prompt": "^1.1.0"
+    }
+}
